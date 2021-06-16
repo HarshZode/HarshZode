@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarshZode
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C language and Python
 - 📫 How to reach me -email zodeharsh@gmail.com
 
 <!---
