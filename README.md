@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @HarshZode
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C language and Python
+- 🌱 I’m currently learning C, Cpp and Python
+- ✨ Currently in Second Year of Computer Science Engineering.
 - 📫 How to reach me -email zodeharsh@gmail.com
+
 
 <!---
 HarshZode/HarshZode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
