@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HarshZode
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Angular
-- 👑 Programmed 4 Discord Bots (Alina, Alex, Forest) in python and javascript
+- 👑 I program Discord Bots using python and javascript.
 - ✨ Currently in Second Year of Computer Science Engineering.
 - 📫 How to reach me -email zodeharsh@gmail.com
 
