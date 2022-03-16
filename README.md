@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarshZode
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C, Cpp and Python
+- 🌱 I’m currently learning C, C++ and Python
 - ✨ Currently in Second Year of Computer Science Engineering.
 - 📫 How to reach me -email zodeharsh@gmail.com
 
