@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HarshZode
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Angular
-- 👑 I have programmed Discord Bots using python and javascript.
-- ✨ Currently in Second Year of Computer Science Engineering.
+- 🌱 I’m currently studying nodejs.
+- 👑 I have programmed Discord Bots using python and nodejs.
+- ✨ Currently in Third Year of Computer Science Engineering.
 - 📫 How to reach me -email zodeharsh@gmail.com
 
 
