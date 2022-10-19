@@ -44,6 +44,3 @@ You can click the Preview link to take a look at your changes.
 
 <!-- **_[@HarshZode](https://www.github.com/HarshZode)_** -->
 
-### Authors
-
-- **[@Harsh Zode](https://www.github.com/HarshZode)**
