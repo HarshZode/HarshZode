@@ -12,8 +12,11 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I'm a student who's intrested in programming
 - ✨ Currently in Third Year of Computer Science Engineering.
 - 👑 I have programmed Discord Bots using python and NodeJs.
-- 📫 How to reach me - 📧 E-mail [![gmail](https://img.shields.io/badge/Harsh%20Zode-0A66C2?style=flat-square&color=white&logo=gmail)](mailto:zodeharsh@gmail.com)
-- 🍳Find me on - 💼 LinkedIn [![linkedin](https://img.shields.io/badge/Harsh%20Zode-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-zode-67a6071b8/)  **||** 💬 Twitter [![twitter](https://img.shields.io/twitter/follow/harsh_zode_?color=blue&label=Harsh%20Zode&logo=twitter&style=flat-square)](https://www.twitter.com/harsh_zode_/)  **||** 👥 Discord [![discord](https://img.shields.io/discord/761173535736856588?label=Taken's%20Crib&labelColor=%235865F2&logo=discord&logoColor=white&style=flat-square)](https://discord.gg/5ZGzSUJ)
+- 📫 How to reach me - 
+
+| 📧 E-mail [![gmail](https://img.shields.io/badge/Harsh%20Zode-0A66C2?style=flat-square&color=white&logo=gmail)](mailto:zodeharsh@gmail.com) | 💼 LinkedIn [![linkedin](https://img.shields.io/badge/Harsh%20Zode-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-zode-67a6071b8/)|💬 Twitter [![twitter](https://img.shields.io/twitter/follow/harsh_zode_?color=blue&label=Harsh%20Zode&logo=twitter&style=flat-square)](https://www.twitter.com/harsh_zode_/)|👥 Discord [![discord](https://img.shields.io/discord/761173535736856588?label=Taken's%20Crib&labelColor=%235865F2&logo=discord&logoColor=white&style=flat-square)](https://discord.gg/5ZGzSUJ) |
+| ------------ | ------------- | ------------- |  ------------- |
+
 
  ### 🛠 Skills
 - C, C++ , Python
