@@ -22,6 +22,7 @@ You can click the Preview link to take a look at your changes.
 - C, C++ , Python
 - Front-end Developing (HTML , CSS , JavaScript, Bootstrap)  
 - Angular , Node JS
+- MongoDB
 
  ###
  
