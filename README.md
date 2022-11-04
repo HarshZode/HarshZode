@@ -28,13 +28,16 @@ You can click the Preview link to take a look at your changes.
  
 <!-- ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshZode&show_icons=true&theme=radical) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshZode&theme=github_dark&layout=compact)](https://github.com/HarshZode/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshZode&theme=github_dark&layout=compact)](https://github.com/HarshZode/github-readme-stats) -->
 
 
 ###  📈 GitHub Stats
 
-| <!-- <![Harsh's GitHub stats] --> <img src="https://github-readme-stats.vercel.app/api?username=HarshZode&&show_icons=true&count_private=true&theme=github_dark">|<!--  ![GitHub Streak] --><img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshZode&theme=blueberry_duo"/> |
-| ------------| ------------- |
+<!-- | <!-- <![Harsh's GitHub stats] <img src="https://github-readme-stats.vercel.app/api?username=HarshZode&&show_icons=true&count_private=true&theme=github_dark">| ![GitHub Streak]<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshZode&theme=blueberry_duo"/> | -->
+<!-- | ------------| ------------- | -->
+
+| <!-- <![Harsh's GitHub stats] --> <!--  ![GitHub Streak] --><img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshZode&theme=blueberry_duo"/> |
+| ------------- |
 
 
  ### ✍️ Random Dev Quotes and Profile Summary
