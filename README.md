@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula) 
  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshZode&theme=vue" align = "center"> -->
 
- [![Harsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=HarshZode&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Harsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=HarshZode&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 
 **_Last updated: 19/10/2022_**
