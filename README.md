@@ -4,7 +4,10 @@ HarshZode/HarshZode is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hi, I'm Harsh Zode 🔗 [![page](https://img.shields.io/website?down_color=red&down_message=offline&style=flat-square&up_color=success&up_message=online&url=https%3A%2F%2FHarshZode.github.io%2F)](https://HarshZode.github.io/)
+ # Hi, I'm Harsh Zode 🔗 [![page](https://img.shields.io/website?down_color=red&down_message=offline&style=flat-square&up_color=success&up_message=online&url=https%3A%2F%2FHarshZode.github.io%2F)](https://HarshZode.github.io/)
+ 
+[![Discord Presence](https://lanyard.cnrad.dev/api/492533696952532993)](https://discord.com/users/492533696952532993) 
+
   
 ## 😃 About me 
 
