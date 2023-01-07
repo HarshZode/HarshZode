@@ -33,7 +33,10 @@ You can click the Preview link to take a look at your changes.
 <!-- ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshZode&show_icons=true&theme=radical) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshZode&theme=github_dark&layout=compact)](https://github.com/HarshZode/github-readme-stats) -->
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/HarshZode/count.svg" />
+</p>
 
 ###  📈 GitHub Stats & Discord Presence
 
@@ -49,6 +52,7 @@ You can click the Preview link to take a look at your changes.
  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshZode&theme=vue" align = "center"> -->
 
 <!-- [![Harsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=HarshZode&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
 
 
 **_Last updated: 19/10/2022_**
