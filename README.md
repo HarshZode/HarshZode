@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
  ### 🛠 Skills
 - C, C++ , Python
-- Front-end Developing (HTML , CSS , JavaScript, Bootstrap)  
+- Front-end (HTML , CSS , JavaScript, Bootstrap)  
 - Angular , Node JS
 - MongoDB
 
