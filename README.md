@@ -13,8 +13,8 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m @HarshZode
 - 🌱 I'm a student who's intrested in programming
-- ✨ Currently in Third Year of Computer Science Engineering.
-- 👑 I have programmed Discord Bots using python and NodeJs. 
+- ✨ Currently in Final Year of Computer Science Engineering.
+- 👑 GCCP Campaign Facilitator 2022. 
 
 
 - 📫 How to reach me - 
@@ -27,6 +27,7 @@ You can click the Preview link to take a look at your changes.
 - Front-end (HTML , CSS , JavaScript, Bootstrap)  
 - Angular , Node JS
 - MySQL, MongoDB
+- Docker
 
  ###
  
@@ -55,7 +56,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-**_Last updated: 19/10/2022_**
+**_Last updated: 29/05/2023_**
 
 <!-- **_[@HarshZode](https://www.github.com/HarshZode)_** -->
 
