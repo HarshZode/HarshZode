@@ -27,7 +27,8 @@ You can click the Preview link to take a look at your changes.
 - Front-end (HTML , CSS , JavaScript, Bootstrap)  
 - Angular , Node JS
 - MySQL, MongoDB
-- Docker
+- Docker, Jenkins
+- GCP
 
  ###
  
